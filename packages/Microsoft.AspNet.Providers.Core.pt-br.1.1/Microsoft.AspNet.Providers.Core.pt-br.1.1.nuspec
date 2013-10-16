@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.Providers.Core.pt-br</id>
+    <version>1.1</version>
+    <title>Recursos Português-BR de Bibliotecas Principais dos Microsoft ASP.NET Universal Providers</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/system.web.providers-1.0-eula.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Este pacote contém os assemblies satélite Português-BR para ASP.NET Universal Providers.</description>
+    <summary>Recursos Português-BR para o pacote Microsoft.AspNet.Providers.Core</summary>
+    <language>pt-br</language>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Providers.Core" version="[1.1]" />
+    </dependencies>
+    <references />
+  </metadata>
+</package>

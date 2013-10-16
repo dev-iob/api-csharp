@@ -1,0 +1,44 @@
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\API-IOB.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\API-IOB.pdb
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\EntityFramework.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Helpers.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Mvc.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Providers.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Razor.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.Deployment.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.Razor.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\EntityFramework.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Helpers.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Mvc.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.Razor.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.Deployment.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\System.Web.WebPages.Razor.xml
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\bin\pt-br\System.Web.Providers.resources.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\obj\Debug\API-IOB.csprojResolveAssemblyReference.cache
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\obj\Debug\API-IOB.dll
+c:\users\r.kovacs\documents\visual studio 2012\Projects\API-IOB\API-IOB\obj\Debug\API-IOB.pdb
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\API-IOB.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\API-IOB.pdb
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\EntityFramework.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Helpers.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Mvc.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Providers.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Razor.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.Razor.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\EntityFramework.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Helpers.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Mvc.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.Razor.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\System.Web.WebPages.Razor.xml
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\bin\pt-br\System.Web.Providers.resources.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\obj\Debug\API-IOB.csprojResolveAssemblyReference.cache
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\obj\Debug\API-IOB.dll
+C:\Users\r.kovacs\Documents\API\api-iobC#\API-IOB\obj\Debug\API-IOB.pdb
